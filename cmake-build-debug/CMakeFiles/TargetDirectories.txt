@@ -1,0 +1,3 @@
+/media/roc/Seagate Basic/first_pro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/roc/Seagate Basic/first_pro/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/roc/Seagate Basic/first_pro/cmake-build-debug/CMakeFiles/first_pro.dir

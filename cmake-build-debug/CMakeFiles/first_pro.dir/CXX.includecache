@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/roc/Seagate Basic/first_pro/main.cpp
+iostream
+-
+stack.h
+/media/roc/Seagate Basic/first_pro/stack.h
+
+/media/roc/Seagate Basic/first_pro/stack.h
+
